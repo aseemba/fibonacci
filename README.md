@@ -1,3 +1,4 @@
+```
 Fibonacci series coding exercise
 
 * This is an iterative approach to generate and print a Fibonacci series based on the input size provided by the user.
@@ -30,7 +31,6 @@ fibonacci/
                     └── fib
                         └── service
                             └── FibSequenceServiceImplTest.java
-
 
 * Running the code:
     * Assumption: The environment is setup to run a java executable (JAVA_HOME etc.)
